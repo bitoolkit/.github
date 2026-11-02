@@ -30,7 +30,7 @@
 
 ## 交流群
 
-欢迎加入 **BIToolkit: 🧊🧊🧊**（QQ 群：`184242558`），一起交流使用体验、反馈问题或参与开发。
+欢迎加入 **BIToolkit 交流群**（QQ 群：`184242558`），一起交流使用体验、反馈问题或参与开发。
 
 <p align="center">
   <a href="https://qm.qq.com/q/V472c8UjwQ"><strong>点击链接加入群聊</strong></a>
